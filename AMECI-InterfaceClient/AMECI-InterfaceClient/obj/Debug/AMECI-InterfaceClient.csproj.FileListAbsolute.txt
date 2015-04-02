@@ -1,0 +1,8 @@
+D:\Ahmed\Advanced-MultiEncryption-Chat-System\AMECI-InterfaceClient\AMECI-InterfaceClient\bin\Debug\AMECI-InterfaceClient.exe.config
+D:\Ahmed\Advanced-MultiEncryption-Chat-System\AMECI-InterfaceClient\AMECI-InterfaceClient\bin\Debug\AMECI-InterfaceClient.exe
+D:\Ahmed\Advanced-MultiEncryption-Chat-System\AMECI-InterfaceClient\AMECI-InterfaceClient\bin\Debug\AMECI-InterfaceClient.pdb
+D:\Ahmed\Advanced-MultiEncryption-Chat-System\AMECI-InterfaceClient\AMECI-InterfaceClient\obj\Debug\AMECI-InterfaceClient.csprojResolveAssemblyReference.cache
+D:\Ahmed\Advanced-MultiEncryption-Chat-System\AMECI-InterfaceClient\AMECI-InterfaceClient\obj\Debug\AMECI_InterfaceClient.Properties.Resources.resources
+D:\Ahmed\Advanced-MultiEncryption-Chat-System\AMECI-InterfaceClient\AMECI-InterfaceClient\obj\Debug\AMECI-InterfaceClient.csproj.GenerateResource.Cache
+D:\Ahmed\Advanced-MultiEncryption-Chat-System\AMECI-InterfaceClient\AMECI-InterfaceClient\obj\Debug\AMECI-InterfaceClient.exe
+D:\Ahmed\Advanced-MultiEncryption-Chat-System\AMECI-InterfaceClient\AMECI-InterfaceClient\obj\Debug\AMECI-InterfaceClient.pdb

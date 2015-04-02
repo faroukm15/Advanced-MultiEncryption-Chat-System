@@ -1,0 +1,5 @@
+D:\Ahmed\Advanced-MultiEncryption-Chat-System\AMECI-ServerModule\AMECI-ServerModule\bin\Debug\AMECI-ServerModule.exe.config
+D:\Ahmed\Advanced-MultiEncryption-Chat-System\AMECI-ServerModule\AMECI-ServerModule\bin\Debug\AMECI-ServerModule.exe
+D:\Ahmed\Advanced-MultiEncryption-Chat-System\AMECI-ServerModule\AMECI-ServerModule\bin\Debug\AMECI-ServerModule.pdb
+D:\Ahmed\Advanced-MultiEncryption-Chat-System\AMECI-ServerModule\AMECI-ServerModule\obj\Debug\AMECI-ServerModule.exe
+D:\Ahmed\Advanced-MultiEncryption-Chat-System\AMECI-ServerModule\AMECI-ServerModule\obj\Debug\AMECI-ServerModule.pdb
